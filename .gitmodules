@@ -1,0 +1,3 @@
+[submodule "rip"]
+	path = rip
+	url = git@github.com:carsonrobles/rip.git
